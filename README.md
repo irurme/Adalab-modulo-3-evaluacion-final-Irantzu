@@ -92,6 +92,6 @@ Esta fase profundiza en el análisis estadístico para determinar si el nivel ed
 
 ## 👩‍💻 Autora
 
-- **Nombre**: Irantzu Urkiola - irurme
+- **Nombre**: Irantzu Urkiola 
 - **Curso**: Adalab - Data Analyst (promor 52 - Julia Salander)
 - **Módulo**: 3 - Python - Transformando datos
